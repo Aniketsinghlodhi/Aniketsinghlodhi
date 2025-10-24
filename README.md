@@ -136,9 +136,22 @@ print(me.current_focus())
 
 <div align="center">
 
-[![Blockchain Voting System](https://github-readme-stats.vercel.app/api/pin/?username=aniketsinghlodhi&repo=blockchain-voting-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF)](https://github.com/aniketsinghlodhi)
-
-*🔗 Decentralized voting system built with blockchain technology for transparency and security*
+<table>
+<tr>
+<td align="center" width="50%">
+<h3>🗳️ Blockchain Voting System</h3>
+<p><em>Decentralized voting platform ensuring transparency & security</em></p>
+<p><strong>Tech:</strong> Solidity • Web3.js • Node.js</p>
+<a href="https://github.com/aniketsinghlodhi"><img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="View Project"/></a>
+</td>
+<td align="center" width="50%">
+<h3>📊 Coming Soon</h3>
+<p><em>Web3 & Data Analytics Projects</em></p>
+<p><strong>Stay tuned for more!</strong> 🚀</p>
+<a href="https://github.com/aniketsinghlodhi?tab=repositories"><img src="https://img.shields.io/badge/Explore_Repos-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="Explore Repos"/></a>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -199,9 +212,17 @@ print(me.current_focus())
 
 <div align="center">
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Activity
 
-![Snake animation](https://raw.githubusercontent.com/aniketsinghlodhi/aniketsinghlodhi/output/github-contribution-grid-snake-dark.svg)
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniketsinghlodhi/aniketsinghlodhi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniketsinghlodhi/aniketsinghlodhi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aniketsinghlodhi/aniketsinghlodhi/output/github-contribution-grid-snake.svg">
+</picture>
+
+<sub>*Snake animation requires GitHub Actions setup. Check out [Platane's snake action](https://github.com/Platane/snk) to enable this feature!*</sub>
 
 </div>
 
