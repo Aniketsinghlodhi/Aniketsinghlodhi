@@ -1,16 +1,20 @@
 <div align="center">
-  
+
 # 🌌 Welcome to My Digital Universe 🌌
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B+I'm+Aniket+Singh+Lodhi;Blockchain+Enthusiast+%F0%9F%94%97;Web3+Developer+%F0%9F%8C%90;Data+Analytics+Wizard+%F0%9F%93%8A;Cybersecurity+Explorer+%F0%9F%94%90;Let's+Build+the+Future!+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="1000">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=3DFFE6&center=true&vCenter=true&width=800&lines=Hi+There!+%F0%9F%91%8B+I'm+Aniket+Singh+Lodhi;Blockchain+Developer+%F0%9F%94%97;Web3+Enthusiast+%F0%9F%8C%90;Data+Analytics+Wizard+%F0%9F%93%8A;AI+%26+Cybersecurity+Explorer+%F0%9F%94%90;Building+the+Future+with+Code!+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+### *"Building the future with code, data, and blockchain innovation."* ✨
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 
 ```python
 class AniketSinghLodhi:
@@ -38,117 +42,127 @@ print(me.current_focus())
 
 <div align="center">
   
-### 💭 *"The only way to do great work is to love what you do."* 
+### 💭 *"The only way to do great work is to love what you do."*
 
 </div>
 
----
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 🎯 Current Focus
+## 🔥 Current Focus
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+- 🔭 Building **Blockchain-Based Voting System** (Capstone Project)
+- 🌱 Deep diving into **Web3** technologies & decentralized applications
+- 📊 Mastering **Data Analytics** for actionable insights
+- ⛓️ Exploring **Blockchain** architecture & consensus mechanisms
+- 🔐 Sharpening skills in **Cybersecurity** & ethical hacking
+- 💡 Contributing to **Open Source** projects
+- 🎯 Creating smart contracts with **Solidity**
 
-- 🔭 Working on **Blockchain-Based Voting System** (Capstone Project)
-- 🌱 Learning **Web3, Blockchain & Data Analytics**
-- 💡 Exploring **Smart Contracts with Solidity**
-- 🔐 Diving deep into **Cybersecurity & Ethical Hacking**
-- 📊 Building data-driven solutions with **Python & Power BI**
-- ⚡ Passionate about **Decentralized Technologies**
-- 🎮 Fun fact: **Curious explorer, geek, and tech nerd!**
-
-<br>
+<br clear="right"/>
 
 ---
 
-## 💼 Tech Stack & Tools
+## 💬 Ask Me About
+
+```typescript
+const expertise = {
+  blockchain: ["Smart Contracts", "Web3.js", "Solidity", "DApps"],
+  security: ["Ethical Hacking", "Penetration Testing", "Network Security"],
+  data: ["Data Analytics", "Machine Learning", "Visualization"],
+  development: ["Python", "JavaScript", "Node.js", "Web Development"],
+  interests: ["Tech Gadgets", "Crypto", "AI/ML", "IoT"]
+};
+```
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
 
-### 👨‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🔹 Programming Languages
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,c,solidity,javascript&theme=dark" />
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+### 🔹 Web Development
 
-### 🤖 AI/ML & Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&theme=dark" />
 
-### 🔐 Cybersecurity Tools
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+### 🔹 Databases
 
-### 🖥️ Operating Systems
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-15E0E0?style=for-the-badge&logo=parrot-security&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
 
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+### 🔹 Frameworks & Libraries
+
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+
+### 🔹 Cybersecurity Arsenal
+
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
+
+### 🔹 Operating Systems
+
+<img src="https://skillicons.dev/icons?i=kali,linux,ubuntu&theme=dark" />
+
+### 🔹 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,arduino&theme=dark" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aniketsinghlodhi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3DFFE6&icon_color=3DFFE6&text_color=FFFFFF&border_radius=10" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsinghlodhi&theme=radical&hide_border=true&background=0D1117&ring=3DFFE6&fire=FF6B6B&currStreakLabel=3DFFE6&border_radius=10" alt="GitHub Streak" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinghlodhi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3DFFE6&text_color=FFFFFF&border_radius=10" alt="Top Languages" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketsinghlodhi&theme=high-contrast&hide_border=true&bg_color=0D1117&color=3DFFE6&line=FF6B6B&point=FFFFFF&area=true&border_radius=10" alt="Contribution Graph" width="98%" />
+
+</div>
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=aniketsinghlodhi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsinghlodhi&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinghlodhi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketsinghlodhi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" alt="Contribution Graph" width="98%" />
-
-</div>
-
-<div align="center">
-  
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aniketsinghlodhi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aniketsinghlodhi&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15)](https://github.com/aniketsinghlodhi)
 
 </div>
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 <h3>🗳️ Blockchain Voting System</h3>
-<p><em>Decentralized voting platform ensuring transparency & security</em></p>
-<p><strong>Tech:</strong> Solidity • Web3.js • Node.js</p>
-<a href="https://github.com/aniketsinghlodhi"><img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="View Project"/></a>
+<p><em>Decentralized, transparent, and secure voting platform</em></p>
+<p><strong>Tech:</strong> Solidity • Web3.js • Node.js • Blockchain</p>
+<a href="https://github.com/aniketsinghlodhi"><img src="https://img.shields.io/badge/View_Project-3DFFE6?style=for-the-badge&logo=github&logoColor=0D1117" alt="View Project"/></a>
 </td>
 <td align="center" width="50%">
-<h3>📊 Coming Soon</h3>
-<p><em>Web3 & Data Analytics Projects</em></p>
-<p><strong>Stay tuned for more!</strong> 🚀</p>
-<a href="https://github.com/aniketsinghlodhi?tab=repositories"><img src="https://img.shields.io/badge/Explore_Repos-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" alt="Explore Repos"/></a>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<h3>📊 More Projects Coming</h3>
+<p><em>Web3 DApps & Data Analytics Solutions</em></p>
+<p><strong>Stay tuned!</strong> 🚀</p>
+<a href="https://github.com/aniketsinghlodhi?tab=repositories"><img src="https://img.shields.io/badge/Explore_All-0D1117?style=for-the-badge&logo=github&logoColor=3DFFE6" alt="Explore Repos"/></a>
 </td>
 </tr>
 </table>
@@ -157,91 +171,88 @@ print(me.current_focus())
 
 ---
 
-## 💬 Ask Me About
+## 💻 Coding Vibes
 
 <div align="center">
 
-```
-🔗 Blockchain Development  |  🌐 Web3 Technologies  |  📊 Data Analytics
-🐍 Python Programming  |  🔐 Cybersecurity  |  🤖 Machine Learning
-📈 Data Visualization  |  ⚡ Smart Contracts  |  🛡️ Ethical Hacking
-```
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Reach Me At
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aniketsinghlodhi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniketsinghlodhi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketlodhi@icloud.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AniketS6069487)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/an1iiket_singh)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/aniketsinghlodhi)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/majestic_lie_7707)
+<a href="mailto:aniketlodhi@icloud.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/aniketsinghlodhi">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/an1iiket_singh">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
+<a href="https://twitter.com/AniketS6069487">
+  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+</a>
+<a href="https://discord.com/users/aniketsinghlodhi">
+  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+</a>
+<a href="https://reddit.com/user/majestic_lie_7707">
+  <img src="https://skillicons.dev/icons?i=reddit" alt="Reddit" />
+</a>
+<a href="https://github.com/aniketsinghlodhi">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+</a>
 
-📧 **Email:** aniketlodhi@icloud.com
+<br><br>
+
+📧 **aniketlodhi@icloud.com**
 
 </div>
 
 ---
 
-## 🎨 Coding in Progress...
-
-<div align="center">
-  
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-
-</div>
-
----
-
-## 📈 Profile Views & Followers
+## 🌠 My Philosophy
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=aniketsinghlodhi&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/aniketsinghlodhi?style=for-the-badge&color=00F7FF&labelColor=0D1117)](https://github.com/aniketsinghlodhi)
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Activity
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniketsinghlodhi/aniketsinghlodhi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniketsinghlodhi/aniketsinghlodhi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aniketsinghlodhi/aniketsinghlodhi/output/github-contribution-grid-snake.svg">
-</picture>
-
-<sub>*Snake animation requires GitHub Actions setup. Check out [Platane's snake action](https://github.com/Platane/snk) to enable this feature!*</sub>
-
-</div>
-
----
-
-<div align="center">
-
-## 💎 *"Building the decentralized future, one block at a time"* 💎
+> ### *"The future belongs to those who create it."*
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-### ⭐ Don't forget to star my repositories if you find them interesting! ⭐
+> ### *"Innovate, Build, and Evolve — every byte counts."*
+
+</div>
 
 ---
 
+## 📈 Profile Insights
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=aniketsinghlodhi&color=3DFFE6&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/aniketsinghlodhi?style=for-the-badge&color=3DFFE6&labelColor=0D1117)](https://github.com/aniketsinghlodhi)
+[![GitHub Stars](https://img.shields.io/github/stars/aniketsinghlodhi?style=for-the-badge&color=FF6B6B&labelColor=0D1117)](https://github.com/aniketsinghlodhi)
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+### ⭐ *If you find my work interesting, don't forget to star my repositories!* ⭐
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 **Made with ❤️ by Aniket Singh Lodhi**
 
-*Keep Learning | Keep Building | Keep Growing* 🚀
+*Keep Learning | Keep Building | Keep Innovating* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
 </div>
