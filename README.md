@@ -112,9 +112,7 @@ const expertise = {
 
 ### 🔹 Operating System Expertise
 
-<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://skillicons.dev/icons?i=kali,linux,ubuntu&theme=dark" />
+<img src="https://skillicons.dev/icons?i=apple,windows,kali,linux,ubuntu&theme=dark" />
 
 ### 🔹 Tools & Platforms
 
@@ -202,15 +200,14 @@ const expertise = {
 <a href="https://discord.com/users/aniketsinghlodhi">
   <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
 </a>
+<a href="https://reddit.com/user/majestic_lie_7707">
+  <img src="https://skillicons.dev/icons?i=reddit" alt="Reddit" />
+</a>
 <a href="https://github.com/aniketsinghlodhi">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </a>
 
 <br><br>
-
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/majestic_lie_7707)
-
-<br>
 
 📧 **aniketlodhi@icloud.com**
 
