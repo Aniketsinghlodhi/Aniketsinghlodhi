@@ -80,9 +80,17 @@ const expertise = {
 
 <div align="center">
 
+### 🔹 Blockchain & Web3
+
+<img src="https://skillicons.dev/icons?i=solidity&theme=dark" />
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Smart_Contracts-363636?style=for-the-badge&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/DApps-7C3AED?style=for-the-badge&logo=ethereum&logoColor=white" />
+
 ### 🔹 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,solidity,javascript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,solidity,javascript,nodejs&theme=dark" />
 
 ### 🔹 Web Development
 
@@ -92,9 +100,8 @@ const expertise = {
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
 
-### 🔹 Frameworks & Libraries
+### 🔹 Data Science & ML
 
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -124,14 +131,35 @@ const expertise = {
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Language Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aniketsinghlodhi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3DFFE6&icon_color=3DFFE6&text_color=FFFFFF&border_radius=10" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=aniketsinghlodhi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3DFFE6&icon_color=3DFFE6&text_color=FFFFFF&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsinghlodhi&theme=radical&hide_border=true&background=0D1117&ring=3DFFE6&fire=FF6B6B&currStreakLabel=3DFFE6&border_radius=10" alt="GitHub Streak" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinghlodhi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3DFFE6&text_color=FFFFFF&border_radius=10" alt="Top Languages" width="49%" />
+</div>
+
+### 💻 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinghlodhi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3DFFE6&text_color=FFFFFF&border_radius=10&langs_count=10&hide=jupyter%20notebook&card_width=450" alt="Top Languages" />
+
+</div>
+
+### 📈 Detailed Language Breakdown
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinghlodhi&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=3DFFE6&text_color=FFFFFF&langs_count=8)](https://github.com/aniketsinghlodhi)
+
+</div>
+
+### 🔥 Contribution Activity
+
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketsinghlodhi&theme=high-contrast&hide_border=true&bg_color=0D1117&color=3DFFE6&line=FF6B6B&point=FFFFFF&area=true&border_radius=10" alt="Contribution Graph" width="98%" />
 
 </div>
@@ -233,9 +261,9 @@ const expertise = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=aniketsinghlodhi&color=3DFFE6&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/aniketsinghlodhi?style=for-the-badge&color=3DFFE6&labelColor=0D1117)](https://github.com/aniketsinghlodhi)
-[![GitHub Stars](https://img.shields.io/github/stars/aniketsinghlodhi?style=for-the-badge&color=FF6B6B&labelColor=0D1117)](https://github.com/aniketsinghlodhi)
+![Profile Views](https://komarev.com/ghpvc/?username=aniketsinghlodhi&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/aniketsinghlodhi?style=for-the-badge&color=FF6B6B&labelColor=0D1117)](https://github.com/aniketsinghlodhi)
+[![GitHub Stars](https://img.shields.io/github/stars/aniketsinghlodhi?style=for-the-badge&color=FFD700&labelColor=0D1117)](https://github.com/aniketsinghlodhi)
 
 </div>
 
