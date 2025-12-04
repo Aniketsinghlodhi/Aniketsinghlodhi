@@ -144,28 +144,17 @@ const expertise = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinghlodhi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3DFFE6&text_color=FFFFFF&border_radius=10&langs_count=12&card_width=500&include_all_commits=true&count_private=true&exclude_repo=&hide=Jupyter%20Notebook,SCSS" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinghlodhi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3DFFE6&text_color=FFFFFF&border_radius=10&langs_count=8&hide=HTML,CSS,Jupyter%20Notebook,SCSS" alt="Top Languages" />
 
 </div>
 
-### 📈 Detailed Language Breakdown
+### 📈 Programming Languages Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinghlodhi&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=3DFFE6&text_color=FFFFFF&langs_count=10&include_all_commits=true&count_private=true" alt="Language Donut Chart" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinghlodhi&layout=pie&theme=radical&hide_border=true&bg_color=0D1117&title_color=3DFFE6&text_color=FFFFFF&langs_count=8&include_all_commits=true&count_private=true" alt="Language Pie Chart" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinghlodhi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3DFFE6&text_color=FFFFFF&border_radius=10&langs_count=12&card_width=600&hide=HTML,CSS,Jupyter%20Notebook,SCSS,Makefile,Shell" alt="Programming Languages" />
 
 </div>
-
-### 🔥 Language Stats with Solidity Focus
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinghlodhi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3DFFE6&text_color=FFFFFF&border_radius=10&langs_count=15&card_width=500&include_all_commits=true&count_private=true&hide=HTML,CSS" alt="Extended Languages" />
-
-</div>
-
 ### 🔥 Contribution Activity
 
 <div align="center">
