@@ -50,13 +50,13 @@ print(me.current_focus())
 
 ## 🔥 Current Focus
 
-- 🔭 Building **Blockchain-Based Voting System** (Capstone Project)
-- 🌱 Deep diving into **Web3** technologies & decentralized applications
-- 📊 Mastering **Data Analytics** for actionable insights
-- ⛓️ Exploring **Blockchain** architecture & consensus mechanisms
-- 🔐 Sharpening skills in **Cybersecurity** & ethical hacking
-- 💡 Contributing to **Open Source** projects
-- 🎯 Creating smart contracts with **Solidity**
+- 🔭 Building **Blockchain-Based Voting System**
+- 🌱 Deep diving into **Web3** technologies & DApps
+- 📊 Mastering **Data Analytics**
+- ⛓️ Understanding **Blockchain Architecture**
+- 🔐 Levelling up in **Cybersecurity & Ethical Hacking**
+- 💡 Open Source contributions
+- 🎯 Smart Contracts in **Solidity**
 
 <br clear="right"/>
 
@@ -108,7 +108,6 @@ const expertise = {
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 
 ### 🔹 Cybersecurity Arsenal
 
@@ -117,15 +116,13 @@ const expertise = {
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" />
 
-### 🔹 Operating System Expertise
+### 🔹 OS Expertise
 
 <img src="https://skillicons.dev/icons?i=apple,windows,kali,linux,ubuntu&theme=dark" />
 
-### 🔹 Tools & Platforms
+### 🔹 Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,arduino&theme=dark" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
 
 </div>
 
@@ -135,8 +132,9 @@ const expertise = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aniketsinghlodhi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3DFFE6&icon_color=3DFFE6&text_color=FFFFFF&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsinghlodhi&theme=radical&hide_border=true&background=0D1117&ring=3DFFE6&fire=FF6B6B&currStreakLabel=3DFFE6&border_radius=10" alt="GitHub Streak" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=aniketsinghlodhi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3DFFE6&icon_color=3DFFE6&text_color=FFFFFF&border_radius=10" height="170" />
+
+<img src="https://streak-stats.demolab.com?user=aniketsinghlodhi&theme=radical&hide_border=true&background=0D1117&ring=3DFFE6&fire=FF6B6B&currStreakLabel=3DFFE6&border_radius=10" height="170" />
 
 </div>
 
@@ -144,39 +142,39 @@ const expertise = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinghlodhi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3DFFE6&text_color=FFFFFF&border_radius=10&langs_count=12&card_width=500&include_all_commits=true&count_private=true&exclude_repo=&hide=Jupyter%20Notebook,SCSS" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinghlodhi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3DFFE6&text_color=FFFFFF&langs_count=10&card_width=500&hide=Jupyter%20Notebook" />
 
 </div>
 
-### 📈 Detailed Language Breakdown
+### 📈 Language Breakdown
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinghlodhi&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=3DFFE6&text_color=FFFFFF&langs_count=10&include_all_commits=true&count_private=true" alt="Language Donut Chart" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinghlodhi&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=3DFFE6&text_color=FFFFFF&langs_count=10" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinghlodhi&layout=pie&theme=radical&hide_border=true&bg_color=0D1117&title_color=3DFFE6&text_color=FFFFFF&langs_count=8&include_all_commits=true&count_private=true" alt="Language Pie Chart" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinghlodhi&layout=pie&theme=radical&hide_border=true&bg_color=0D1117&title_color=3DFFE6&text_color=FFFFFF&langs_count=8" />
 
 </div>
 
-### 🔥 Language Stats with Solidity Focus
+### 🔥 Solidity Focused Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinghlodhi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3DFFE6&text_color=FFFFFF&border_radius=10&langs_count=15&card_width=500&include_all_commits=true&count_private=true&hide=HTML,CSS" alt="Extended Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinghlodhi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3DFFE6&text_color=FFFFFF&langs_count=12&hide=HTML,CSS" />
 
 </div>
 
-### 🔥 Contribution Activity
+### 🚀 Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketsinghlodhi&theme=high-contrast&hide_border=true&bg_color=0D1117&color=3DFFE6&line=FF6B6B&point=FFFFFF&area=true&border_radius=10" alt="Contribution Graph" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketsinghlodhi&theme=high-contrast&hide_border=true&bg_color=0D1117&color=3DFFE6&line=FF6B6B&point=FFFFFF&area=true&border_radius=10" width="98%" />
 
 </div>
 
 <div align="center">
-  
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aniketsinghlodhi&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15)](https://github.com/aniketsinghlodhi)
+
+<img src="https://github-profile-trophy.vercel.app/?username=aniketsinghlodhi&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
 
 </div>
 
@@ -193,14 +191,15 @@ const expertise = {
 <h3>🗳️ Blockchain Voting System</h3>
 <p><em>Decentralized, transparent, and secure voting platform</em></p>
 <p><strong>Tech:</strong> Solidity • Web3.js • Node.js • Blockchain</p>
-<a href="https://github.com/aniketsinghlodhi"><img src="https://img.shields.io/badge/View_Project-3DFFE6?style=for-the-badge&logo=github&logoColor=0D1117" alt="View Project"/></a>
+<a href="https://github.com/aniketsinghlodhi"><img src="https://img.shields.io/badge/View_Project-3DFFE6?style=for-the-badge&logo=github&logoColor=0D1117" /></a>
 </td>
+
 <td align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 <h3>📊 More Projects Coming</h3>
 <p><em>Web3 DApps & Data Analytics Solutions</em></p>
 <p><strong>Stay tuned!</strong> 🚀</p>
-<a href="https://github.com/aniketsinghlodhi?tab=repositories"><img src="https://img.shields.io/badge/Explore_All-0D1117?style=for-the-badge&logo=github&logoColor=3DFFE6" alt="Explore Repos"/></a>
+<a href="https://github.com/aniketsinghlodhi?tab=repositories"><img src="https://img.shields.io/badge/Explore_All-0D1117?style=for-the-badge&logo=github&logoColor=3DFFE6" /></a>
 </td>
 </tr>
 </table>
@@ -209,41 +208,17 @@ const expertise = {
 
 ---
 
-## 💻 Coding Vibes
+## 📫 Reach Me
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
-
-</div>
-
----
-
-## 📫 Reach Me At
-
-<div align="center">
-
-<a href="mailto:aniketlodhi@icloud.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/aniketsinghlodhi">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-<a href="https://instagram.com/an1iiket_singh">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-</a>
-<a href="https://twitter.com/AniketS6069487">
-  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
-</a>
-<a href="https://discord.com/users/aniketsinghlodhi">
-  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
-</a>
-<a href="https://reddit.com/user/majestic_lie_7707">
-  <img src="https://skillicons.dev/icons?i=reddit" alt="Reddit" />
-</a>
-<a href="https://github.com/aniketsinghlodhi">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-</a>
+<a href="mailto:aniketlodhi@icloud.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://linkedin.com/in/aniketsinghlodhi"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://instagram.com/an1iiket_singh"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://twitter.com/AniketS6069487"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://discord.com/users/aniketsinghlodhi"><img src="https://skillicons.dev/icons?i=discord" /></a>
+<a href="https://reddit.com/user/majestic_lie_7707"><img src="https://skillicons.dev/icons?i=reddit" /></a>
+<a href="https://github.com/aniketsinghlodhi"><img src="https://skillicons.dev/icons?i=github" /></a>
 
 <br><br>
 
@@ -253,27 +228,11 @@ const expertise = {
 
 ---
 
-## 🌠 My Philosophy
-
-<div align="center">
-
-> ### *"The future belongs to those who create it."*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-> ### *"Innovate, Build, and Evolve — every byte counts."*
-
-</div>
-
----
-
-## 📈 Profile Insights
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aniketsinghlodhi&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/aniketsinghlodhi?style=for-the-badge&color=FF6B6B&labelColor=0D1117)](https://github.com/aniketsinghlodhi)
-[![GitHub Stars](https://img.shields.io/github/stars/aniketsinghlodhi?style=for-the-badge&color=FFD700&labelColor=0D1117)](https://github.com/aniketsinghlodhi)
+![Followers](https://img.shields.io/github/followers/aniketsinghlodhi?style=for-the-badge&color=FF6B6B&labelColor=0D1117)
+![Stars](https://img.shields.io/github/stars/aniketsinghlodhi?style=for-the-badge&color=FFD700&labelColor=0D1117)
 
 </div>
 
@@ -283,14 +242,8 @@ const expertise = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-### ⭐ *If you find my work interesting, don't forget to star my repositories!* ⭐
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+### ⭐ *If you like my work, don't forget to star my repositories!* ⭐
 
 **Made with ❤️ by Aniket Singh Lodhi**
-
-*Keep Learning | Keep Building | Keep Innovating* 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
 </div>
