@@ -140,23 +140,18 @@ const expertise = {
 
 </div>
 
-### 💻 Most Used Languages
+## 📈 Contribution Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinghlodhi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3DFFE6&text_color=FFFFFF&border_radius=10&langs_count=8&hide=HTML,CSS,Jupyter%20Notebook,SCSS" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aniketsinghlodhi&theme=radical" width="98%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aniketsinghlodhi&theme=radical" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aniketsinghlodhi&theme=radical" width="48%"/>
 
 </div>
-
-### 📈 Programming Languages Overview
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinghlodhi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3DFFE6&text_color=FFFFFF&border_radius=10&langs_count=12&card_width=600&hide=HTML,CSS,Jupyter%20Notebook,SCSS,Makefile,Shell" alt="Programming Languages" />
-
-</div>
-### 🔥 Contribution Activity
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketsinghlodhi&theme=high-contrast&hide_border=true&bg_color=0D1117&color=3DFFE6&line=FF6B6B&point=FFFFFF&area=true&border_radius=10" alt="Contribution Graph" width="98%" />
