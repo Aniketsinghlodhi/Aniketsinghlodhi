@@ -273,7 +273,7 @@ const expertise = {
 
 **Made with ❤️ by Aniket Singh Lodhi**
 
-*Keep Learning | Keep Building | Keep Innovating* 🚀
+*Keep Learning | Keep Building | Keep Innovating* 🚀  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
